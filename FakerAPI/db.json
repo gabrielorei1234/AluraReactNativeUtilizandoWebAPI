@@ -21,10 +21,10 @@
   ],
   "repos": [
     {
-      "id": 2,
-      "name": "api-escolas",
+      "name": "api-escola",
       "data": "1 de jan. de 2021",
-      "postId": 1
+      "postId": 1,
+      "id": 2
     },
     {
       "id": 3,
